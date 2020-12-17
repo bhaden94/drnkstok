@@ -15,3 +15,8 @@
 .box-gallery {
   z-index: -1 !important;
 }
+
+.input-group {
+  width: 50%;
+  text-align: center;
+}
