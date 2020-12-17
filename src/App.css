@@ -1,33 +1,51 @@
 .App {
-  background-color: transparent;
-  text-align: center;
+	background-color: transparent;
+	text-align: center;
 }
 
 .App-header {
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  z-index: 99;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	z-index: 99;
 }
 
 .box-gallery {
-  z-index: -1 !important;
+	z-index: -1 !important;
 }
 
 .input-group {
-  width: 50%;
+	width: 50%;
+}
+
+.form-item {
+	color: white;
+	background-color: rgba(96, 125, 139, 0.8);
+}
+
+.form-item::placeholder {
+	color: white;
+}
+
+.form-item:active,
+.form-item:focus {
+	background-color: rgba(96, 125, 139, 0.8);
+}
+
+input[type="text"] {
+	color: white !important;
 }
 
 @media only screen and (max-width: 768px) {
-  .input-group {
-    width: 75%;
-  }
+	.input-group {
+		width: 75%;
+	}
 }
 
 @media only screen and (max-width: 576px) {
-  .input-group {
-    width: 95%;
-  }
+	.input-group {
+		width: 95%;
+	}
 }
