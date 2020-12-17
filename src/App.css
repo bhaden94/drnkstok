@@ -18,5 +18,16 @@
 
 .input-group {
   width: 50%;
-  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .input-group {
+    width: 75%;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .input-group {
+    width: 95%;
+  }
 }
