@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/drnkstok/static/css/main.444285d8.chunk.css",
-    "main.js": "/drnkstok/static/js/main.389b4423.chunk.js",
-    "main.js.map": "/drnkstok/static/js/main.389b4423.chunk.js.map",
+    "main.js": "/drnkstok/static/js/main.9157b72e.chunk.js",
+    "main.js.map": "/drnkstok/static/js/main.9157b72e.chunk.js.map",
     "runtime-main.js": "/drnkstok/static/js/runtime-main.324dcd96.js",
     "runtime-main.js.map": "/drnkstok/static/js/runtime-main.324dcd96.js.map",
     "static/css/2.dff340fd.chunk.css": "/drnkstok/static/css/2.dff340fd.chunk.css",
@@ -18,13 +18,13 @@
     "static/media/beer-min.96f37c61.jpg": "/drnkstok/static/media/beer-min.96f37c61.jpg",
     "static/media/all.min.css": "/drnkstok/static/media/fa-solid-900.46fdbd2d.woff",
     "static/media/liquor-min.b7a6f7dd.jpg": "/drnkstok/static/media/liquor-min.b7a6f7dd.jpg",
-    "static/media/wine-min.2d4726a9.jpg": "/drnkstok/static/media/wine-min.2d4726a9.jpg"
+    "static/media/wine-min.7358da8d.jpg": "/drnkstok/static/media/wine-min.7358da8d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.324dcd96.js",
     "static/css/2.dff340fd.chunk.css",
     "static/js/2.9d2a04e4.chunk.js",
     "static/css/main.444285d8.chunk.css",
-    "static/js/main.389b4423.chunk.js"
+    "static/js/main.9157b72e.chunk.js"
   ]
 }
